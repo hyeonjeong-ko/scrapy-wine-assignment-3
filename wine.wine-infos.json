@@ -1,0 +1,1629 @@
+[{
+  "_id": "2182",
+  "name": {
+    "name_kr": "더 패스 말보로 소비뇽 블랑",
+    "name_en": "The Pass Marlborough Sauvignon Blanc"
+  },
+  "type": "화이트 와인",
+  "description": null,
+  "origin": {
+    "country": "뉴질랜드",
+    "region": "말보로",
+    "winery": "더 패스"
+  },
+  "grape_variety": [
+    "소비뇽 블랑"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/20230901143328F3CMYY.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "패션 푸르츠, 구아바와 레몬그라스의 싱그럽고 상큼한 아로마가 매력적인 와인으로 입 안에서는 잘 익은 열대 과실의 풍미와 함께 생동감 넘치는 산미가 느껴지며 깔끔하고 청량감 넘치는 미감이 길게 이어진다.",
+  "tip": "말보로 지역내 아와테레, 와이라우에서 수확된 포도를 선별하여 부드럽게 압착 과정을 거친 후 온도조절 스테인레스 스틸 탱크에서 발효 및 숙성 과정을 거쳐 뉴질랜드 소비뇽 블랑의 전형적인 특징을 잘 살린 와인을 생산한다."
+},
+{
+  "_id": "2174",
+  "name": {
+    "name_kr": "더 프리즈너 레드 블렌드",
+    "name_en": "The Prisoner Red Blend"
+  },
+  "type": "레드 와인",
+  "description": "대중적인 블렌딩의 미국 레드 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "더 프리즈너 와인 컴퍼니"
+  },
+  "grape_variety": [
+    "진판델",
+    "까베르네 소비뇽",
+    "쁘띠 시라",
+    "시라",
+    "메를로",
+    "말벡"
+  ],
+  "capacity": "750ml, 1500ml",
+  "food_matching": [
+    "양고기",
+    "양갈비",
+    "스테이크",
+    "갈비",
+    "불고기",
+    ""
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530160016AFRPNL.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "4",
+    "body_level": "5"
+  },
+  "information": "말린 블랙 베리, 말린 아사이 베리와 옅은 삼나무, 담뱃잎의 아로마가 시나몬, 정향, 육두구의 달콤한 노트와 함께 느껴지며, 입 안에서는 잘 익은 다크 체리, 감초의 향이 완숙한 타닌과 함께 부드러운 피니쉬에 잘 어우러진다. ",
+  "tip": null
+},
+{
+  "_id": "2177",
+  "name": {
+    "name_kr": "루퍼트 로칠드 바롱 에드몽드",
+    "name_en": "Rupert & Rothschild Baron Edmond"
+  },
+  "type": "레드 와인",
+  "description": null,
+  "origin": {
+    "country": "남아공",
+    "region": "스텔렌보쉬",
+    "winery": "루퍼트 로칠드"
+  },
+  "grape_variety": [
+    "메를로 70%",
+    "까베르네 프랑 13%",
+    "까베르네 소비뇽 12%",
+    "말벡 5%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "허브 브레이즈드 Karoo 램 숄더",
+    "클래식 감자 퐁당",
+    "글레이즈드 당근 요리"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230704184940V4PKZK.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "블랙 & 블루베리 아로마와 함께 코리안더의 노트가 느껴지며, 실키한 탄닌감이 여러 레이어로 층층이 나타나는 복합미가 느껴진다. 균형감은 물론이고 약간의 초콜렛 힌트가 아름다운 구조감을 형성하고 있다. 브리딩 이후 테이스팅을 권한다.",
+  "tip": null
+},
+{
+  "_id": "2175",
+  "name": {
+    "name_kr": "블랭크 캔버스 홀더웨이 소비뇽 블랑",
+    "name_en": "Blank Canvas Holdaway Sauvignon Blanc"
+  },
+  "type": "화이트 와인",
+  "description": "Holdaway 가족이 경작하는 싱글빈야드에서 생산",
+  "origin": {
+    "country": "뉴질랜드",
+    "region": "말보로",
+    "winery": "블랭크 캔버스"
+  },
+  "grape_variety": [
+    "소비뇽 블랑"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/20230621164600P5FMNZ.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "연둣빛이 감도는 밝은 짚색을 띄고 있으며, 100% 탱크 발효로 전형적인 소비뇽 블랑의 특징을 보여준다. 미네랄, 블랙커런트, 구아바, 패션푸르트 등 각종 향들이 조화롭게 어우러지며, 입안을 가득 채운다. 마무리에 느껴지는 쏠티함이 특징적이다.",
+  "tip": null
+},
+{
+  "_id": "2180",
+  "name": {
+    "name_kr": "메튜 브루노 샤도네이",
+    "name_en": "Mathew Bruno Chardonnay"
+  },
+  "type": "화이트 와인",
+  "description": null,
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>로스 카네로스",
+    "winery": "메튜 브루노"
+  },
+  "grape_variety": [
+    "샤도네이 100%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "버터로 조리된 흰살 생선",
+    "파스타류"
+  ],
+  "image_url": "/upload/product/wine/wine/images/202307251706167R6PV9.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "황금 빛이 감도는 밝은 노란색을 띄며, 넥타린, 바닐라, 꿀에 절인 사과칩 그리고 배, 파인애플 등의 각종 화려한 향이 잘 나타나며, 입 안을 가득 채우는 풍미와 토스트, 스파이스의 피니쉬로 마무리된다.",
+  "tip": "Los Carneros AVA의 양질의 포도만을 사용하여 연간 5,000 병 내외의 극소량만 생산한다."
+},
+{
+  "_id": "2176",
+  "name": {
+    "name_kr": "블랭크 캔버스 앱스트랙트 소비뇽 블랑",
+    "name_en": "Blank Canvas Abstract Sauvignon Blanc"
+  },
+  "type": "화이트 와인",
+  "description": "싱글빈야드 와인만 양조하는 와이너리, 블랭크 캔버스",
+  "origin": {
+    "country": "뉴질랜드",
+    "region": "말보로",
+    "winery": "블랭크 캔버스"
+  },
+  "grape_variety": [
+    "소비뇽 블랑"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/2023062116352498VYRB.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "클래식 말보로 소비뇽 블랑과는 전혀 다른 차원의 소비뇽 블랑이다. “Savoury Blanc” 이라 부를 수 있을 정도의 텍스쳐와 매우 복잡한 아로마가 코와 입을 현혹시키며, 블랙커런트, 흰꽃, 엄청난 미네랄 느낌이 매우 우아하게 펼쳐진다. 프랜치 오크에서 14개월 간 Lees와 에이징하여 그 풍미를 극대화 시켰다.",
+  "tip": "Holdaway 가족이 경작하는 싱글빈야드 중에서도 엄선된 3열의 밭 포도만 손수확하여 만든다."
+},
+{
+  "_id": "2178",
+  "name": {
+    "name_kr": "루퍼트 로칠드 클라시크",
+    "name_en": "Rupert & Rothschild Classique"
+  },
+  "type": "레드 와인",
+  "description": null,
+  "origin": {
+    "country": "남아공",
+    "region": "스텔렌보쉬",
+    "winery": "루퍼트 로칠드"
+  },
+  "grape_variety": [
+    "메를로 51%",
+    "까베르네 소비뇽 34%",
+    "까베르네 프랑 9%",
+    "쁘띠 베르도 6%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "소고기",
+    "오리고기",
+    "양고기",
+    "파마산 크러스트",
+    "셀러리악"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230705103734F9APPA.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "붉은 플럼, 라즈베리, 체리의 아로마가 지배적이며 토스티드 카라멜이나 호두처럼 느껴질 수 있는 포레스트, 오크 스파이스가 층층이 쌓인다. 신선한 붉은 과실을 중심으로 부드러운 텍스처의 타닌감이 지속되며 최소한 7년의 숙성잠재력을 지닌 와인이다.",
+  "tip": null
+},
+{
+  "_id": "2172",
+  "name": {
+    "name_kr": "더 프리즈너 샤도네이",
+    "name_en": "The Prisoner Chardonnay"
+  },
+  "type": "화이트 와인",
+  "description": "젊은 와인 애호가들의 입맛을 사로잡은 화이트 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "더 프리즈너 와인 컴퍼니"
+  },
+  "grape_variety": [
+    "샤도네이",
+    "비오니에",
+    "게뷔르츠트라미너"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/20230530155521BKGUKK.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "살구와 복숭아 아로마가 구운 마쉬멜로우, 말린 파인애플, 바닐라, 레몬 제스트 향과 함께 느껴지며, 입 안에서는 레몬 제스트, 복숭아 코블러 향이 상큼한 산미와 함께 조화롭게 어우러진다. 황금빛 사과와 마지팬, 구운 코코넛이 피니쉬에 머문다. 프렌치 오크 배럴에서 10개월 간 숙성하며, 50%는 새 배럴에서 숙성하여 완성된다.",
+  "tip": null
+},
+{
+  "_id": "2179",
+  "name": {
+    "name_kr": "메튜 브루노 까베르네 소비뇽",
+    "name_en": "Mathew Bruno Cabernet Sauvignon"
+  },
+  "type": "레드 와인",
+  "description": null,
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리",
+    "winery": "메튜 브루노"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽 100%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "스테이크",
+    "양갈비",
+    "경성 치즈"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230725170556AVCMDK.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "5"
+  },
+  "information": "깊은 가넷 퍼플 컬러 색을 지니고 있으며, 으꺤 블랙체리, 블루베리, 카시스 등 풍부한 과실향에 시더, 붉은 꽃잎등의 플로럴 느낌이 잘 어우러진다. 풀바디의 검정 과실맛과 적절한 산미, 부드러운 탄닌이 전반적으로 좋은 밸런스를 보여준다. New 프랜치 / 아메리칸 오크를 사용하여 24개월간 숙성하며 최고의 배럴만을 골라 최종 블랜드하여 병입한다. ",
+  "tip": "Rutherford AVA의 양질의 포도만을 사용하며, 연간 6,000 병 내외의 극소량만 생산한다."
+},
+{
+  "_id": "2173",
+  "name": {
+    "name_kr": "더 프리즈너 까베르네 소비뇽",
+    "name_en": "The Prisoner Cabernet Sauvignon"
+  },
+  "type": "레드 와인",
+  "description": "예술적인 라벨이 돋보이는 레드 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "더 프리즈너 와인 컴퍼니"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽",
+    "메를로",
+    "시라",
+    "말벡",
+    "쁘띠 시라",
+    "샤르보노"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/20230530155745RGUCYY.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "블랙 체리와 잘 익은 자두 아로마가 바닐라 향과 어우러지며, 입 안에서는 응축된 붉은 과실류의 향이 극대화 되고 꽉 채우는 구조감, 긴 피니쉬를 보여준다.",
+  "tip": null
+},
+{
+  "_id": "2171",
+  "name": {
+    "name_kr": "언쉐클드 레드 블렌드",
+    "name_en": "Unshackled Red Blend"
+  },
+  "type": "레드 와인",
+  "description": "흥미로운 블렌딩으로 확실한 캐릭터를 보여주는 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "더 프리즈너 와인 컴퍼니"
+  },
+  "grape_variety": [
+    "따나",
+    "시라",
+    "쁘띠 시라",
+    "말벡",
+    "까베르네 소비뇽",
+    "그르나슈",
+    "진판델",
+    "템프라니요",
+    "쁘띠 베르도",
+    "메를로",
+    "테롤데고"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "스테이크",
+    "갈비",
+    "바비큐",
+    "양갈비",
+    "호두"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530155201JME2S3.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "야생 블루베리, 블랙 체리, 블랙 베리의 강렬한 아로마에 백후추 향이 어우러진다. 균형이 잘 잡혀 있으며, 풀 바디하고 부드럽고 긴 피니쉬가 특징인 와인이다. ",
+  "tip": "언쉐클드(Unshackled)는 '속박을 풀다', '자유롭게 하다' 라는 뜻을 가지고 있다. 이에 따라 바틀 디자인도 시선을 사로잡는 콤비네이션 자물쇠 형태를 하고 있다."
+},
+{
+  "_id": "2170",
+  "name": {
+    "name_kr": "언쉐클드 소비뇽 블랑",
+    "name_en": "Unshackled Sauvignon Blanc"
+  },
+  "type": "화이트 와인",
+  "description": "신선하고 부드러운 소비뇽 블랑의 신세계",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "더 프리즈너 와인 컴퍼니"
+  },
+  "grape_variety": [
+    "소비뇽 블랑",
+    "알바리뇨",
+    "말바시아 비앙카",
+    "샤도네이"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/20230530154924DXTXFJ.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "구스베리, 리치, 흰 꽃의 아로마가 느껴지며, 입 안에서는 잘 익은 파인애플과 배, 구스베리의 향에 신선한 산미와 부드러운 풍미가 나타난다. ",
+  "tip": "언쉐클드(Unshackled)는 '속박을 풀다', '자유롭게 하다' 라는 뜻을 가지고 있다. 이에 따라 바틀 디자인도 시선을 사로잡는 콤비네이션 자물쇠 형태를 하고 있다."
+},
+{
+  "_id": "2166",
+  "name": {
+    "name_kr": "로버트 몬다비 리저브 까베르네 소비뇽 투 칼론",
+    "name_en": "Robert Mondavi Reserve Cabernet Sauvignon To Kalon"
+  },
+  "type": "레드 와인",
+  "description": "로버트 몬다비의 아이콘 와인, 투 칼론 (To Kalon)",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리>오크빌>투칼론 빈야드",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽 97.5%",
+    "쁘띠 베르도 2.5%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "스테이크",
+    "갈비",
+    "불고기",
+    "양갈비",
+    "버섯"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530151706MTBVC8.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "4",
+    "body_level": "5"
+  },
+  "information": "풍부한 검은 과실류에 홍차, 민트, 주니퍼와 향신료 아로마가 어우러진다. 입 안에서는 붉은 과실, 감미로운 다크 초콜릿 향과 농축되고 무게감 있는 신선한 산미에 부드러운 피니쉬가 매력적인 와인이다.  ",
+  "tip": "1966년 로버트 몬다비가 자신의 와이너리의 새 보금자리를 찾을 때 투 칼론을 선택하며, “이상적인 토양, 햇빛과 강수량을 가진 곳이다. 이 곳은 나에게 보물이다.” 라고 평했다."
+},
+{
+  "_id": "2165",
+  "name": {
+    "name_kr": "로버트 몬다비 에스테이트 퓌메 블랑",
+    "name_en": "Robert Mondavi Estate Fume Blanc"
+  },
+  "type": "화이트 와인",
+  "description": "오크 숙성된 소비뇽 블랑, 퓌메 블랑 (Fume Blanc)",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리>오크빌",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "소비뇽 블랑 94%",
+    "세미용 6%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "훈제 연어",
+    "농어",
+    "광어",
+    "생선구이",
+    "조개구이"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530151030SGUM3J.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "4",
+    "body_level": "3"
+  },
+  "information": "잘 익은 열대 과일, 자스민, 구운 아몬드 아로마가 나타나며, 입 안에서는 신선하고 상큼한 복숭아, 망고의 향과 함께 꽉 채워주는 구조감과 긴 피니쉬로 마무리된다. 로버트 몬다비의 에스테이트 퓌메 블랑은 젖산 발효 없이 프렌치 오크 배럴에서 9개월간 숙성하며, 병입 후 일 년간 다시 숙성하여 완성한다.",
+  "tip": null
+},
+{
+  "_id": "2168",
+  "name": {
+    "name_kr": "살도 진판델",
+    "name_en": "Saldo Zinfandel"
+  },
+  "type": "레드 와인",
+  "description": "다양한 빈야드의 포도를 결합시켜 최상의 조화를 선보이는 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "더 프리즈너 와인 컴퍼니"
+  },
+  "grape_variety": [
+    "진판델 80%",
+    "쁘띠 시라",
+    "시라 20%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "양갈비",
+    "양고기",
+    "스테이크",
+    "돼지고기",
+    "치즈",
+    "살라미"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530153701RSNCK9.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "다크 루비 컬러에 검은 감초, 흑후추, 체리의 강렬한 아로마를 보여주며 풍성하고 재기 넘치는 와인의 모습이 나타난다. 입 안에서는 옅은 초콜릿 향과 관능적이고 벨벳과 같이 부드러운 타닌을 느낄 수 있다. 프렌치, 아메리칸 오크 배럴에서 9개월 간 숙성하며, 이 중 30%는 새 오크 배럴을 사용한다.",
+  "tip": "Saldo 는 ‘함께하다’, ‘결합시키다‘ 라는 뜻이다."
+},
+{
+  "_id": "2169",
+  "name": {
+    "name_kr": "언쉐클드 까베르네 소비뇽",
+    "name_en": "Unshackled Cabernet Sauvignon"
+  },
+  "type": "레드 와인",
+  "description": "Born to be different! 차별화된 맛을 보여주는 레드 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "더 프리즈너 와인 컴퍼니"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽 82%",
+    "쁘띠 시라 6%",
+    "쁘띠 베르도 5%",
+    "말벡 2%",
+    "까베르네 프랑",
+    "메를로",
+    "따나 5%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/20230530154621T6KEAM.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "신선하고 어린 블랙 베리, 블랙 커런트의 아로마가 나타나며, 입 안에서는 좀 더 무게감 있고, 정향과 말린 허브 향이 부드럽지만 구조감 있는 타닌과 어우러진다.  ",
+  "tip": "언쉐클드(Unshackled)는 '속박을 풀다', '자유롭게 하다' 라는 뜻을 가지고 있다. 이에 따라 바틀 디자인도 시선을 사로잡는 콤비네이션 자물쇠 형태를 하고 있다."
+},
+{
+  "_id": "2163",
+  "name": {
+    "name_kr": "로버트 몬다비 에스테이트 샤도네이",
+    "name_en": "Robert Mondavi Estate Chardonnay"
+  },
+  "type": "화이트 와인",
+  "description": "부드러운 텍스쳐와 크리미한 피니쉬의 오크빌 샤도네이",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리>오크빌",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "샤도네이 100%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "생선요리",
+    "해산물요리"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530150432A7AXQE.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "레몬 커드, 신선한 크림, 장밋잎, 망고 아로마와 달콤한 토스티함이 느껴진다. 입 안에서는 생생하고 신선한 시트러스 꽃 향과 빼어난 산미감이 나타나며 우아하고 부드러운 텍스처와 크리미한 피니쉬로 이어진다. 로버트 몬다비의 에스테이트 샤도네이는 카르네로스의 Hyde 빈야드에서 생산되며, 프렌치 오크 배럴에서 11개월간 숙성하여 완성한다.",
+  "tip": null
+},
+{
+  "_id": "2164",
+  "name": {
+    "name_kr": "로버트 몬다비 에스테이트 피노누아",
+    "name_en": "Robert Mondavi Estate Pinot Noir"
+  },
+  "type": "레드 와인",
+  "description": "오크 숙성으로 완성한 깊이감 있는 피노누아",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리>오크빌",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "피노누아 100%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/20230530150801A5EJG4.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "토스티한 시나몬과 육두구, 타임, 장미향과 함께 레드 베리 아로마가 느껴지며, 입 안에서는 라즈베리, 자두, 레드 체리와 흙내음이 놀라울 정도의 깊이감을 보여준다. ",
+  "tip": null
+},
+{
+  "_id": "2167",
+  "name": {
+    "name_kr": "로버트 몬다비 리저브 퓌메 블랑 투 칼론",
+    "name_en": "Robert Mondavi Reserve Fume Blanc To Kalon"
+  },
+  "type": "화이트 와인",
+  "description": "로버트 몬다비의 아이콘 와인, 투 칼론 (To Kalon)",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리>오크빌>투칼론 빈야드",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "소비뇽 블랑 94%",
+    "세미용 6%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 오리 가슴 요리",
+    "구운 농어 요리 등"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530153106EEJKS7.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "생기 넘치는 시트러스, 배, 라일락 아로마가 느껴지며, 입 안을 가득 채우는 과즙의 향과 빼어난 산미가 시트러스, 핵과의 과실, 자스민 향과 함께 어우러진다. ",
+  "tip": "1966년 로버트 몬다비가 자신의 와이너리의 새 보금자리를 찾을 때 투 칼론을 선택하며, “이상적인 토양, 햇빛과 강수량을 가진 곳이다. 이 곳은 나에게 보물이다.” 라고 평했다."
+},
+{
+  "_id": "2162",
+  "name": {
+    "name_kr": "로버트 몬다비 나파 밸리 피노누아",
+    "name_en": "Robert Mondavi Napa Valley Pinot Noir"
+  },
+  "type": "레드 와인",
+  "description": "피노누아 특유의 섬세함과 구조감을 느낄 수 있는 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "피노누아 100%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 닭가슴살",
+    "돼지고기 안심 혹은 등심 구이",
+    "고급 치즈"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530150210B6AZNV.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "옅은 딸기와 바이올렛 아로마에 다크 체리, 자두 아로마가 나타난다. 입 안에서는 체리, 향신료, 흑후추와 백후추의 향이 빼어난 구조감과 섬세한 타닌과 어우러져 조화를 이룬다. ",
+  "tip": "로버트 몬다비의 나파 밸리 라인은 세인트 헬레나부터 카르네로스에 걸친 포도밭에서 수확된 포도로 생산된다."
+},
+{
+  "_id": "2161",
+  "name": {
+    "name_kr": "로버트 몬다비 나파 밸리 샤도네이",
+    "name_en": "Robert Mondavi Napa Valley Chardonnay"
+  },
+  "type": "화이트 와인",
+  "description": "풍성한 텍스쳐를 자랑하는 나파밸리 샤도네이의 전형",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "샤도네이 100%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "훈제 구이 연어",
+    "게",
+    "치킨샐러드"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530145840U8J6QP.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "구아바, 배, 자몽 시트러스 아로마가 나타나며, 입 안에서는 잘 익은 파인애플과 레몬 크렘 향에 토스티한 복합미와 풍성한 텍스처가 느껴진다.",
+  "tip": "로버트 몬다비의 나파 밸리 라인은 세인트 헬레나부터 카르네로스에 걸친 포도밭에서 수확된 포도로 생산된다."
+},
+{
+  "_id": "2159",
+  "name": {
+    "name_kr": "로버트 몬다비 나파 밸리 까베르네 소비뇽",
+    "name_en": "Robert Mondavi Napa Valley Cabernet Sauvignon"
+  },
+  "type": "레드 와인",
+  "description": "미국 와인의 선구자 로버트 몬다비의 저력을 보여주는 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽 80%",
+    "메를로 11%",
+    "쁘띠 베르도 5%",
+    "까베르네 프랑 3%",
+    "말벡 1%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "소고기 스테이크와 같은 붉은 육류 요리"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530144519NRNAWW.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "5"
+  },
+  "information": "체리, 자두, 샌달우드, 민트, 바닐라 빈의 아로마가 느껴지며, 입 안에서는 달콤한 검은 과실류와 오크 스파이스가 어우러져 여러 겹의 풍성함과 복합미를 느낄 수 있게 해준다. 풍부한 질감과 빼어난 산미, 섬세한 타닌이 특징인 와인이다. ",
+  "tip": "로버트 몬다비의 나파 밸리 라인은 세인트 헬레나부터 카르네로스에 걸친 포도밭에서 수확된 포도로 생산된다."
+},
+{
+  "_id": "2160",
+  "name": {
+    "name_kr": "로버트 몬다비 나파 밸리 소비뇽 블랑",
+    "name_en": "Robert Mondavi Napa Valley Sauvignon Blanc"
+  },
+  "type": "화이트 와인",
+  "description": "스택스립 소비뇽 블랑의 과실미가 인상적인 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "소비뇽 블랑 90%",
+    "세미용 10%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/202305301448572HSP3Z.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "레몬 버베나, 시트러스, 복숭아 아로마가 느껴지며, 옅은 자스민과 망고 아로마도 전해진다. 입 안에서는 민트와 함께 망고, 버베나, 시트러스 향이 빼어난 산미와 풍성함으로 어우러지고, 긴 피니쉬를 보여준다. 로버트 몬다비의 나파 밸리의 소비뇽 블랑은 1969년 구매한 스택스립 디스트릭트의 포도밭에서 생산되며 과실의 강렬한 캐릭터를 보여주는 떼루아이다. 여기에 오크빌 지역에서 생산된 소비뇽 블랑, 세미용을 블렌딩하여 완성한다. ",
+  "tip": "로버트 몬다비의 나파 밸리 라인은 세인트 헬레나부터 카르네로스에 걸친 포도밭에서 수확된 포도로 생산된다."
+},
+{
+  "_id": "2158",
+  "name": {
+    "name_kr": "우드브릿지 메를로",
+    "name_en": "Woodbridge Merlot"
+  },
+  "type": "레드 와인",
+  "description": "Wine your way! 일상에서 쉽게 즐기는 메를로",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "메를로",
+    "까베르네 소비뇽",
+    "쁘띠 시라",
+    "따나",
+    "말벡"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 육류",
+    "햄버거",
+    "볼로네즈 소스 파스타"
+  ],
+  "image_url": "/upload/product/wine/wine/images/202305301440045BRAZY.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "라즈베리, 붉은 과실 잼, 모카 아로마와 바닐라 오크, 레드 베리 아로마가 어우러져있다. 미디움 바디에 균형잡힌 산도와 타닌, 복합미가 뛰어난 와인이다. ",
+  "tip": "우드브릿지는 로버트 몬다비가 일상에서 즐길 수 있는 좋은 품질의 와인 생산을 목표로 하여 캘리포니아 Lodi 지역에 설립하였다."
+},
+{
+  "_id": "2157",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 라이 배럴 레드 블렌드",
+    "name_en": "Robert Mondavi Private Selection Rye Barrel Red Blend"
+  },
+  "type": "레드 와인",
+  "description": "스피릿 배럴 에이지드 와인의 정석",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "메를로 87%",
+    "까베르네 소비뇽 6%",
+    "쁘띠 베르도 5%",
+    "말벡 2%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 스테이크",
+    "샤퀴테리",
+    "숙성된 치즈"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530143620AKALTA.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "깊고 풍부한 루비 컬러에 잘 블랙 베리, 육두구, 시나몬 아로마가 옅은 토바코, 몰트 향과 함께 느껴진다. 풍성하고 초콜릿 같은 타닌과 달콤한 스모키함이 입 안에서 부드럽게 어우러지며, 피니쉬로 이어진다. 숙성 및 블렌딩이 완료된 뒤 복합적인 향과 부드러운 타닌감을 위해 일부 와인은 새 아메리칸 오크 라이 위스키 배럴에서 10개월 간 추가로 숙성하여 깊고 풍부한 토스티함이 느껴진다.",
+  "tip": null
+},
+{
+  "_id": "2156",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 럼 배럴 메를로",
+    "name_en": "Robert Mondavi Private Selection Rum Barrel Merlot"
+  },
+  "type": "레드 와인",
+  "description": "메를로의 새로운 변신",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "메를로 99%",
+    "기타 레드 품종 1%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "볼로네즈 파스타",
+    "매운 코코넛 커리",
+    "다크 초콜릿",
+    "한국식 갈비"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530143341HRTYSG.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "깊고 풍부한 루비 컬러에 달콤한 바닐라, 모카, 코코아 파우더, 블랙 체리, 자두 아로마가 느껴진다. 입 안에서는 블랙 라즈베리, 체리의 농축된 향과 카라멜, 브라운 슈가, 다크 초콜릿의 풍미에 길고 풍성하면서도 달콤한 피니쉬로 마무리된다. 젖산발효가 마무리 된 뒤, 복합적인 향과 부드러운 타닌감을 위해 일부 와인은 새 아메리칸 오크 럼 배럴에서 10개월 간 추가로 숙성하며, 구운 코코넛과 향신료 풍미를 부여해 준다.",
+  "tip": null
+},
+{
+  "_id": "2154",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 레드 블렌드",
+    "name_en": "Robert Mondavi Private Selection Red Blend"
+  },
+  "type": "레드 와인",
+  "description": "블렌딩의 미학이 느껴지는 깊이 있는 풍미",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "진판델 37%",
+    "메를로 24%",
+    "쁘띠 시라 20%",
+    "시라 14%",
+    "그르나슈 4%",
+    "기타 레드 품종 1%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "바비큐 치킨",
+    "카프레제 샐러드",
+    "중국 음식"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530142344DXKU5V.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "다크 루비 컬러에 초콜릿 입힌 체리, 바닐라빈, 브라운 슈가 아로마가 느껴진다. 입 안에서는 라즈베리 타르트, 체리 콜라, 밀크 초콜릿 향이 나타나며, 부드러운 타닌이 길고 달콤한 피니쉬로 이어진다. 깊이 있는 풍미와 부드러움을 위해 젖산 발효를 거치며 프렌치 오크 배럴에서 10개월 간 숙성하여 바닐라 향과 토스티함을 부여해 준다.",
+  "tip": null
+},
+{
+  "_id": "2155",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 버번 배럴 까베르네 소비뇽",
+    "name_en": "Robert Mondavi Private Selection Bourbon Barrel Cabernet Sauvignon"
+  },
+  "type": "레드 와인",
+  "description": "버번 배럴 숙성으로 바디감과 풍미가 한층 풍부한 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽 86%",
+    "말벡 10%",
+    "쁘띠 베르도 2%",
+    "기타 품종 2%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 갈비",
+    "샤퀴테리",
+    "향이 강한 치즈"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530142624VHP82E.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "5"
+  },
+  "information": "깊고 풍부한 루비 컬러에 잘 익은 다크 베리, 흑설탕, 바닐라, 밀크 초콜릿 향에 커피와 스모키함이 느껴진다. 부드러운 타닌과 함께 토스티한 오크향이 와인을 완만하게 만들어 주며 길고 풍부한 피니쉬가 이어진다. 숙성 및 블렌딩이 완료된 뒤 복합적인 향과 부드러운 타닌감을 위해 일부 와인은 새 아메리칸 오크 버번 배럴에서 10개월 간 추가로 숙성하여 깊고 풍부한 토스티함이 느껴진다.",
+  "tip": null
+},
+{
+  "_id": "2153",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 메를로",
+    "name_en": "Robert Mondavi Private Selection Merlot"
+  },
+  "type": "레드 와인",
+  "description": "복합미가 느껴지는 메를로",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "메를로",
+    "쁘띠 시라",
+    "기타 레드 품종"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "로티세리 치킨",
+    "구운 연어",
+    "라비올리"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530142115HQMRGN.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "다크 루비 컬러에 잘 익은 레드 체리, 자두, 크랜베리와 옅은 블랙 올리브, 모카, 브라운 슈가 아로마가 어우러진다. 입 안에서는 잘 익은 다크 체리와 자두의 향이 달콤한 브라운 슈가와 토피, 모카 향과 함께 느껴진다. 피니쉬는 부드럽고 길게 이어진다. 깊이 있는 풍미와 부드러움을 위해 젖산 발효를 거치며 프렌치와 아메리칸 오크 배럴에서 10개월 간 숙성하여 타닌을 부드럽게 만들며 복합미를 더해준다. ",
+  "tip": null
+},
+{
+  "_id": "2152",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 피노누아",
+    "name_en": "Robert Mondavi Private Selection Pinot Noir"
+  },
+  "type": "레드 와인",
+  "description": "우아한 스타일로 초심자에게 적합한 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "피노누아 90%",
+    "시라 9%",
+    "기타 레드 품종 1%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 육류",
+    "가금류",
+    "치즈",
+    "해산물"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530141743Q5GWQ5.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "미디엄 루비 컬러에 잘 익은 레드 체리, 바이올렛 아로마에 달콤한 토바코, 마다가스카르 바닐라 빈의 향이 느껴진다. 미디엄 바디에 부드러운 타닌이 특징인 와인이다. 젖산 발효를 거친 뒤 프렌치 오크 배럴에서 10개월 간 숙성하여 부드러움과 복합미를 부여한다.",
+  "tip": null
+},
+{
+  "_id": "2151",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 까베르네 소비뇽",
+    "name_en": "Robert Mondavi Private Selection Cabernet Sauvignon"
+  },
+  "type": "레드 와인",
+  "description": "둥근 탄닌감과 적당한 바디감의 조화",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽 85%",
+    "쁘띠 시라 3%",
+    "따나 3%",
+    "기타 품종 9%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 육류",
+    "파스타",
+    "향이 강한 치즈"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530141312LRNF9B.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "4",
+    "body_level": "4"
+  },
+  "information": "깊고 풍부한 루비 컬러에 부드럽고 잘 익은 타닌이 돋보이는 미디엄 바디 와인이다. ",
+  "tip": null
+},
+{
+  "_id": "2150",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 소비뇽 블랑",
+    "name_en": "Robert Mondavi Private Selection Sauvignon Blanc"
+  },
+  "type": "화이트 와인",
+  "description": "높은 산도를 자랑하는 소비뇽 블랑",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "소비뇽 블랑 80%",
+    "말바시아 비앙카 12%",
+    "오렌지 뮈스카 8%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "신선한 시금치 샐러드",
+    "구운 새우"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530130433RTGADJ.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "4",
+    "body_level": "2"
+  },
+  "information": "옅은 볏짚 색에 갓 자른 풀 내음, 레몬, 자몽, 라임 제스트 아로마가 미네랄 노트와 함께 느껴진다. 입 안에서는 레몬그라스, 시트러스 제스트, 구아바, 망고 향이 신선한 산미감과 함께 채워진다. 소비뇽 블랑의 상큼한 산미와 질감을 살리기 위해 스테인리스 스틸에서 발효시키고, 숙성한다.",
+  "tip": null
+},
+{
+  "_id": "2149",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 버터리 샤도네이",
+    "name_en": "Robert Mondavi Private Selection Buttery Chardonnay"
+  },
+  "type": "화이트 와인",
+  "description": "부드러운 버터 풍미가 매력적인 샤도네이",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "샤도네이 100%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "로스트 치킨",
+    "페투치니 까르보나라",
+    "구운 연어",
+    "망고 그린 샐러드"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530125943HTS942.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": "황금빛 볏짚 색에 잘 익은 파인애플, 달콤한 밀크 다르트와 크렘 브륄레 아로마가 느껴진다. 입 안에서는 풍부한 커스터드 파이, 바닐라 빈의 향이 토스티한 오크 향과 어우러지며, 피니쉬가 길게 이어진다. 풍미와 크리미한 질감을 위해 젖산 발효를 진행하며, 프렌치 오크에서 7개월 간 숙성한다.",
+  "tip": null
+},
+{
+  "_id": "2148",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 샤도네이",
+    "name_en": "Robert Mondavi Private Selection Chardonnay"
+  },
+  "type": "화이트 와인",
+  "description": "산도의 균형감이 돋보이는 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "샤도네이 98%",
+    "비오니에 2%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 칠면조",
+    "알프레도 페투치니 파스타"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230530125451YDZ6KT.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "황금빛 볏짚 색에 라임 파이, 파인애플, 크렘 브륄레와 바닐라 빈 아로마가 지배적으로 느껴지며, 입 안에서는 풍성하고 크리미한 구운 사과, 졸인 배의 향과 토스티한 오크 향이 균형잡힌 산도와 잘 어우러진다. 완벽한 산미와 당도를 위해 늦은 밤과 이른 아침에 포도를 수확하며 크리미한 미감을 위해 젖산발효를 진행한 뒤 7개월 간 프렌치 오크에서 숙성한다. ",
+  "tip": null
+},
+{
+  "_id": "2147",
+  "name": {
+    "name_kr": "더 프리즈너 레드 블렌드",
+    "name_en": "The Prisoner Red Blend"
+  },
+  "type": "레드 와인",
+  "description": "예술적인 라벨이 돋보이는 레드 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "더 프리즈너 와인 컴퍼니"
+  },
+  "grape_variety": [
+    "진판델",
+    "까베르네 소비뇽",
+    "쁘띠 시라",
+    "시라",
+    "메를로",
+    "말벡"
+  ],
+  "capacity": "750ml, 1500ml",
+  "food_matching": [
+    "양고기",
+    "양갈비",
+    "스테이크",
+    "갈비",
+    "불고기"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230522121052PQXRQB.png",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "4",
+    "body_level": "5"
+  },
+  "information": null,
+  "tip": null
+},
+{
+  "_id": "2145",
+  "name": {
+    "name_kr": "더 프리즈너 샤도네이",
+    "name_en": "The Prisoner Chardonnay"
+  },
+  "type": "화이트 와인",
+  "description": "젊은 와인 애호가들의 입맛을 사로잡은 화이트 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "더 프리즈너 와인 컴퍼니"
+  },
+  "grape_variety": [
+    "샤도네이",
+    "비오니에",
+    "게뷔르츠트라미너"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/20230522110202UZA5HJ.png",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": " ",
+  "tip": null
+},
+{
+  "_id": "2144",
+  "name": {
+    "name_kr": "로버트 몬다비 프라이빗 셀렉션 샤도네이",
+    "name_en": "Robert Mondavi Private Selection Chardonnay"
+  },
+  "type": "화이트 와인",
+  "description": null,
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "샤도네이 98%",
+    "비오니에 2%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 칠면조",
+    "알프레도 페투치니 파스타"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230519175658CSDBHT.png",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": " ",
+  "tip": null
+},
+{
+  "_id": "2146",
+  "name": {
+    "name_kr": "더 프리즈너 까베르네 소비뇽",
+    "name_en": "The Prisoner Cabernet Sauvignon"
+  },
+  "type": "레드 와인",
+  "description": null,
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "더 프리즈너 와인 컴퍼니"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽",
+    "메를로",
+    "시라",
+    "말벡",
+    "쁘띠 시라",
+    "샤르보노"
+  ],
+  "capacity": "750ml",
+  "food_matching": [],
+  "image_url": "/upload/product/wine/wine/images/20230522120416C2KBFM.png",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "4"
+  },
+  "information": null,
+  "tip": null
+},
+{
+  "_id": "2141",
+  "name": {
+    "name_kr": "트윈 오크스 까베르네 소비뇽",
+    "name_en": "Twin Oaks Cabernet Sauvignon"
+  },
+  "type": "레드 와인",
+  "description": "누구나 쉽게 즐길 수 있는 미국 레드와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽",
+    "쁘띠 시라",
+    "따나",
+    "시라"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 육류",
+    "토마토 베이스 파스타"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230519175619PZ6UEA.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "4",
+    "body_level": "3"
+  },
+  "information": "병을 열자마자 체리, 삼나무, 브라운 슈거 아로마가 느껴지며, 다양한 베리류, 구운 마쉬멜로우와 초콜릿 향에 구운 카라멜 피니쉬로 마무리 된다. 잘 익은 과실향과 산도/당도의 조화를 위해 포도는 줄기를 제거하며 수확 후 바로 부드럽게 압착한다. 프렌치와 아메리칸 오크에서 숙성하여 풍성함과 토스티한 피니쉬를 선사한다.",
+  "tip": "트윈 오크스는 1990년대 후반에 설립되었으며 주로 Lodi 지역의 포도로 와인을 양조한다. 우드브릿지와 동일한 와인메이커에 의해 생산되며, 과실 표현력 및 균형미가 뛰어난 스타일이다."
+},
+{
+  "_id": "2143",
+  "name": {
+    "name_kr": "로버트 몬다비 에스테이트 까베르네 소비뇽",
+    "name_en": "Robert Mondavi Estate Cabernet Sauvignon"
+  },
+  "type": "레드 와인",
+  "description": "2022 WS TOP 6위를 차지한 영광의 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아>나파밸리>오크빌",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽 100%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "파스타",
+    "육류",
+    "버섯",
+    "가지 등"
+  ],
+  "image_url": "/upload/product/wine/wine/images/202305191743158YLAQD.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "5"
+  },
+  "information": "자두, 레드 체리, 스위트 오크, 육두구의 아로마가 느껴지며, 입 안에서는 잘 익은 붉은 과실과 자두, 블루베리향에 선명한 산미와 스파이시함이 함께 나타난다. 집중도가 높고, 좋은 구조감과 함께 균형이 잘 잡힌 와인이며, 스파이시한 피니쉬로 마무리 된다.  ",
+  "tip": null
+},
+{
+  "_id": "2142",
+  "name": {
+    "name_kr": "트윈 오크스 샤도네이",
+    "name_en": "Twin Oaks Chardonnay"
+  },
+  "type": "레드 와인",
+  "description": "로버트 몬다비 스타일을 느낄 수 있는 샤도네이",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "샤도네이",
+    "피노 그리지오",
+    "프렌치 꼴롱바르",
+    "베르멘티노",
+    "비오니에",
+    "오렌지 뮈스까"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "치킨 요리",
+    "트러플 리조또"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230519175751C6GBA5.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "배와 열대 과실의 아로마가 나타나며, 복숭아와 토스티한 향이 깔끔하고 상큼하게 느껴지며 부드러운 미감으로 이어진다.",
+  "tip": "트윈 오크스는 1990년대 후반에 설립되었으며 주로 Lodi 지역의 포도로 와인을 양조한다. 우드브릿지와 동일한 와인메이커에 의해 생산되며, 과실 표현력 및 균형미가 뛰어난 스타일이다."
+},
+{
+  "_id": "2140",
+  "name": {
+    "name_kr": "우드브릿지 샤도네이",
+    "name_en": "Woodbridge Chardonnay"
+  },
+  "type": "화이트 와인",
+  "description": "부드럽고 신선한 샤도네이의 특징을 살린 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "샤도네이",
+    "피노 그리지오",
+    "꼴롱바르",
+    "베르멘티노",
+    "비오니에",
+    "오렌지 뮈스까"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "에피타이저로 구운 채소나 신선한 과일. 레몬 페퍼 치킨"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230519175401ABABP5.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "2"
+  },
+  "information": "병을 열자마자 배, 열대과일의 아로마가 느껴지며, 복숭아, 구운 열대 과일 향에 깔끔하고 신선하면서 부드럽게 마무리 된다. 샤도네이의 신선함과 생동감을 위해 스테인리스 스틸 탱크에서 발효 시킨다. 블렌딩 중 일부 비율은 젖산 발효를 진행하여 풍성함과 산도의 조화를 더해준다. 4개월간 리스에서 오크 숙성을 거쳐 복합미 있는 와인이 완성된다. ",
+  "tip": "우드브릿지는 로버트 몬다비가 일상에서 즐길 수 있는 좋은 품질의 와인 생산을 목표로 하여 캘리포니아 Lodi 지역에 설립하였다."
+},
+{
+  "_id": "2139",
+  "name": {
+    "name_kr": "우드브릿지 까베르네 소비뇽",
+    "name_en": "Woodbridge Cabernet Sauvignon"
+  },
+  "type": "레드 와인",
+  "description": "미국 캘리포니아 데일리 레드 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "까베르네 소비뇽",
+    "쁘띠 시라",
+    "따나",
+    "시라"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "구운 육류와 토마토 베이스의 파스타"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230519175211GNC8MP.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "병을 열자마자 체리, 삼나무, 브라운 슈거 아로마가 느껴지며, 다양한 베리류, 구운 마쉬멜로우와 초콜릿 향에 구운 카라멜 피니쉬로 마무리 된다. 잘 익은 과실향과 산도/당도의 조화를 위해 포도는 줄기를 제거하며 수확 후 바로 부드럽게 압착한다. 프렌치와 아메리칸 오크에서 숙성하여 풍성함과 토스티한 피니쉬를 선사한다.",
+  "tip": "우드브릿지는 로버트 몬다비가 일상에서 즐길 수 있는 좋은 품질의 와인 생산을 목표로 하여 캘리포니아 Lodi 지역에 설립하였다."
+},
+{
+  "_id": "2138",
+  "name": {
+    "name_kr": "우드브릿지 피노 그리지오",
+    "name_en": "Woodbridge Pinot Grigio"
+  },
+  "type": "화이트 와인",
+  "description": "음식과 페어링하기 좋은 화이트 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "피노 그리지오",
+    "꼴롱바르",
+    "베르멘티노",
+    "비오니에",
+    "오렌지 뮈스까"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "해산물과 태국 요리",
+    "가벼운 음식"
+  ],
+  "image_url": "/upload/product/wine/wine/images/2023051917503078X6L3.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "2"
+  },
+  "information": "강렬한 시트러스, 라임, 핵과의 과실 아로마가 지배적으로 느껴지며, 입 안에서는 부드러운 시트러스 향과 상쾌한 피니쉬를 보여준다. ",
+  "tip": "우드브릿지는 로버트 몬다비가 일상에서 즐길 수 있는 좋은 품질의 와인 생산을 목표로 하여 캘리포니아 Lodi 지역에 설립하였다."
+},
+{
+  "_id": "2137",
+  "name": {
+    "name_kr": "우드브릿지 소비뇽 블랑",
+    "name_en": "Woodbridge Sauvignon Blanc"
+  },
+  "type": "화이트 와인",
+  "description": "상큼한 과실향이 돋보이는 로다이 소비뇽 블랑",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "소비뇽 블랑",
+    "꼴롱바르",
+    "베르데호",
+    "톰슨 시들리스"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "해산물",
+    "닭고기 요리",
+    "샐러드"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230519174840MPTXV9.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "2"
+  },
+  "information": "밝고 싱그러운 산미와 시트러스, 열대 과일의 아로마가 느껴진다.",
+  "tip": "우드브릿지는 로버트 몬다비가 일상에서 즐길 수 있는 좋은 품질의 와인 생산을 목표로 하여 캘리포니아 Lodi 지역에 설립하였다."
+},
+{
+  "_id": "2136",
+  "name": {
+    "name_kr": "우드브릿지 피노누아",
+    "name_en": "Woodbridge Pinot Noir"
+  },
+  "type": "레드 와인",
+  "description": "가볍게 즐기기 좋은 피노누아",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "로버트 몬다비"
+  },
+  "grape_variety": [
+    "피노누아",
+    "쁘띠 베르도",
+    "쁘띠 시라",
+    "진판델"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "양고기",
+    "찹 스테이크",
+    "토마토 파스타"
+  ],
+  "image_url": "/upload/product/wine/wine/images/202305191746453VU67Z.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "옅은 향신료의 향과 토스티함이 딸기, 체리 아로마와 어우러진다. 입 안에서는 부드럽고 풍성한 과실향이 토스티한 오크 향과 함께 느껴진다. 우드브릿지의 피노 누아는 캘리포니아 지역에서 가장 먼저 포도를 경작하기 시작한 로다이 (Lodi) 에서 생산된다. 스테인리스 스틸에서 젖산 발효까지 완료한 후, 토스티한 풍미를 위해 프렌치 오크에서 숙성된다.",
+  "tip": "우드브릿지는 로버트 몬다비가 일상에서 즐길 수 있는 좋은 품질의 와인 생산을 목표로 하여 캘리포니아 Lodi 지역에 설립하였다."
+},
+{
+  "_id": "2135",
+  "name": {
+    "name_kr": "프루니에 소비뇽 그랑드 뀌베",
+    "name_en": "Fournier Sauvignon Grande Cuvee"
+  },
+  "type": "화이트 와인",
+  "description": "서늘한 기후를 가진 루아르 지역의 소비뇽 블랑!",
+  "origin": {
+    "country": "프랑스",
+    "region": "루아르",
+    "winery": "프루니에"
+  },
+  "grape_variety": [
+    "소비뇽 블랑 100%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "송어 등 생선 요리",
+    "아시아 요리"
+  ],
+  "image_url": "/upload/product/wine/wine/images/20230406181643G4MBPM.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": "‘발 드 루아르’ 뀌베의 화이트 와인이다. 옅은 짚 색을 띄며, 자몽, 흰복숭아, 블랙커런트 싹의 아로마가 조화롭게 느껴진다. 이국적인 과실풍미가 입안을 가득채우며 깔끔하게 마무리된다.",
+  "tip": "‘발 드 루아르’ 뀌베는 세계적으로 유명한 품종을 루아르 지역특성에 맞게 발전시킨 와인들이다."
+},
+{
+  "_id": "2133",
+  "name": {
+    "name_kr": "투핸즈 해리엇스 가든 쉬라즈",
+    "name_en": "Two Hands Harriet’s Garden Adelaide Hills Shiraz"
+  },
+  "type": "레드 와인",
+  "description": "호주에서 가장 빼어난 쉬라즈 생산지를 골라 지역별 특성을 잘 표현한 와인",
+  "origin": {
+    "country": "호주",
+    "region": "클레어 밸리",
+    "winery": "투핸즈"
+  },
+  "grape_variety": [
+    "쉬라즈 100%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "양고기 버거",
+    "스테이크",
+    "갈비찜",
+    "로즈마리 파이"
+  ],
+  "image_url": "/upload/product/wine/wine/images/투핸즈 해리엇스 가든 쉬라즈.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "2",
+    "body_level": "4"
+  },
+  "information": null,
+  "tip": "가든 시리즈는 호주에서 가장 빼어난 쉬라즈 생산지를 골라 각 지역별 특성을 잘 표현한 프리미엄 와인이다. 두 설립자의 가족들 이름을 붙인 와인으로 인기를 얻고 있다. \r\n해리엇은 마이클 트웰프트리의 딸 이름으로 그녀가 가장 좋아하는 핑크색을 라벨에 적용한 와인이다."
+},
+{
+  "_id": "2132",
+  "name": {
+    "name_kr": "페르소나 논 그라타",
+    "name_en": "Persona Non Grata"
+  },
+  "type": "레드 와인",
+  "description": "이마트 행사로 가성비 있게 만날 수 있는 리미티드 득템 와인",
+  "origin": {
+    "country": "미국",
+    "region": "캘리포니아",
+    "winery": "신세계엘앤비 픽"
+  },
+  "grape_variety": [
+    "시라",
+    "진판델",
+    "템프라니요",
+    "무르베르드",
+    "쁘띠베르도"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "바비큐 립",
+    "구운 토마토 비스크",
+    "햄버거"
+  ],
+  "image_url": "/upload/product/wine/wine/images/페르소나-논-그라타.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "2",
+    "body_level": "3"
+  },
+  "information": null,
+  "tip": "2월 이마트 리미티드 행사에서 한정 수량 만날 수 있는 와인"
+},
+{
+  "_id": "2131",
+  "name": {
+    "name_kr": "샹파뉴 루이뒤몽 브륏 로제",
+    "name_en": "Champagne Louis Dumont Brut Rose"
+  },
+  "type": "샴페인",
+  "description": "우아한 핑크색과 섬세한 기포가 매력적인 샴페인",
+  "origin": {
+    "country": "프랑스",
+    "region": "샴페인",
+    "winery": "신세계엘앤비 픽"
+  },
+  "grape_variety": [
+    "피노누아 50%",
+    "샤르도네 30%",
+    "피노뫼니에 20%"
+  ],
+  "capacity": "750ml",
+  "food_matching": [
+    "과일",
+    "치즈가 올라간 크래커",
+    "견과류 등"
+  ],
+  "image_url": "/upload/product/wine/wine/images/샹파뉴 루이뒤몽 로제.jpg",
+  "wine_attributes": {
+    "sugar_level": "1",
+    "acidity_level": "3",
+    "body_level": "3"
+  },
+  "information": null,
+  "tip": "샹파뉴 루이 뒤몽은 주류전문점 와인앤모어에서 만나볼 수 있다."
+}]
